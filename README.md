@@ -2,11 +2,6 @@
 
 An end-to-end Data Analytics project focused on analysing sales performance, inventory management, warehouse operations, supplier lead times, and demand forecasting using Excel, SQL, and Power BI.
 
-![Project](https://img.shields.io/badge/Project-Supply%20Chain%20Analytics-blue)
-![Excel](https://img.shields.io/badge/Tool-Excel-green)
-![SQL](https://img.shields.io/badge/Tool-MySQL-blue)
-![Power BI](https://img.shields.io/badge/Tool-Power%20BI-yellow)
-
 ---
 
 ## 📌 Project Overview
