@@ -266,7 +266,9 @@ The analysis provides insights into sales performance, product revenue, inventor
 **Project Status:** Excel Analysis Completed | SQL Analysis Completed | Power BI Dashboard Developed | Final Portfolio Packaging In Progress
 
 ---
+## Description:
+End-to-end Supply Chain and Inventory Analytics project using Excel, MySQL, and Power BI.
 
 **Tools:** Excel | MySQL | Power BI | DAX
 
-**Project Category:** Data Analytics | Business Intelligence | Supply Chain Analytics
+**Project Category:** Data Analytics | Business Intelligence | Supply Chain Analytics | Inventory-management
